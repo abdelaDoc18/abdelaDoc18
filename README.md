@@ -20,5 +20,5 @@ I create clear, developer-friendly technical documentation, API guides, and Mark
 ---
 
 ## 📬 Connect With Me
-- 📧 **Email:** abdela1999523@gmail.com
+- 📧 **Email:** abdelahope1977@gmail.com
 - 💼 **Open for:** Technical Writing Bounties, Documentation Contracts, Open Source Contributions
